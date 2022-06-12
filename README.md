@@ -4,7 +4,7 @@
 
 <h4 align="center">I`m python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia</h4>
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;My Languages and Tools :
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
